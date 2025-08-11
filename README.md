@@ -7,10 +7,10 @@ URL: https://forms.gle/9ckETkWVvAbtvEeV7
 
 ## 連載第一回: 深堀用資料
 
-### LLMの始まりGPT2: 
-論文: Language Models are Unsupervised Multitask Learners
-- https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
-blog: Better language models and their implications
+### LLMの始まりGPT2:  
+論文: Language Models are Unsupervised Multitask Learners     
+- https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf     
+blog: Better language models and their implications     
 - https://openai.com/index/better-language-models/
 
 ### AIモデルのブレイク: transformer
