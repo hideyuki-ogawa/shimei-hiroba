@@ -9,7 +9,7 @@ URL: https://forms.gle/9ckETkWVvAbtvEeV7
 
 ## 絵本動画
 
-[![youtube 絵本動画を見る](https://www.youtube.com/vi/iNFu-arhHA0/0.jpg)](https://youtu.be/iNFu-arhHA0?si=xLoURe86TgbIVXkS)
+[![youtube 絵本動画を見る](https://img.youtube.com/vi/iNFu-arhHA0/0.jpg)](https://youtu.be/iNFu-arhHA0?si=xLoURe86TgbIVXkS)
 
 ### LLMの始まりGPT2:  
 論文: Language Models are Unsupervised Multitask Learners     
