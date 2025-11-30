@@ -10,6 +10,7 @@
 - [総務省 | 国民のためのサイバーセキュリティサイト](https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/)
 - [警察における AI 等先端技術の導入に向けた取組について](https://www.npa.go.jp/keidai/resources/kikan/seisaku/seisaku/27-1-3-402.pdf)
 - [「国民を詐欺から守るための総合対策2.0」の決定 | 注意喚起・お知らせ | SOS47の活動](https://www.npa.go.jp/bureau/safetylife/sos47/new-topics/250609/01.html)
+    - 概要資料から詐欺の被害額の増加がみられます。
 - [令和７年上半期における特殊詐欺及びＳＮＳ型投資・ロマンス詐欺の 認知・検挙状況等につい](https://www.npa.go.jp/bureau/criminal/souni/tokusyusagi/tokushusagi_toukei2025.pdf)
 
 
